@@ -1,2 +1,2 @@
 # Curso-de-SASS
-Curso de SASS pelo Alura
+Curso de SASS pelo Alura.
